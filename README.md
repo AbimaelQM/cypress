@@ -8,7 +8,6 @@ Testes com Cypress
 
   1.No diretório back-end
      - `npm install`
-     
      - `npm start`
   
   - Se der erro com o sqlite3:
@@ -23,7 +22,6 @@ Testes com Cypress
 
    2.No diretório frontend:
      - `npm install`
-     
      - `npm start`
       
 # Iniciar o cypress 
