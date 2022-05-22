@@ -6,9 +6,10 @@ Testes com Cypress
 
 # Iniciar o back-end
 
-  1.No diretório back-end
+  1.No diretório back-end:
+  
      - `npm install`
-     - `npm start`
+     - Start do back `npm start`
   
   - Se der erro com o sqlite3:
   - Delete a pasta `node_modules`
@@ -21,11 +22,13 @@ Testes com Cypress
 # Iniciar o frontend 
 
    2.No diretório frontend:
+   
      - `npm install`
-     - `npm start`
+     - Start do front `npm start`
       
 # Iniciar o cypress 
 
    3.No diretório cypress:
+   
      - `yarn run cypress open`.
   
