@@ -1,6 +1,8 @@
 # Cypress
-CONTEÚDO DO VÍDEO:
+ - CONTEÚDO DO VÍDEO:
 https://www.youtube.com/watch?v=gTRMuWCp8mE
+
+ - GITHUB: github.com/samlucax/youtube-cypress
 
 Testes com Cypress
 
