@@ -11,12 +11,12 @@ Testes com Cypress
    - `npm install`
    - `npm start`
   
-   1.1 Se der erro com o sqlite3:
-   - Delete a pasta `node_modules`
-   - Delete o arquivo `package-look.json`
-   - Apague a dependência sqlite3 com o comando `npm un sqlite3`
-   - Execute novamente o comando `npm install`
-   - Instale o sqlite3 `npm i sqlite3`
+     1.1 Se der erro com o sqlite3:
+      - Delete a pasta `node_modules`
+      - Delete o arquivo `package-look.json`
+      - Apague a dependência sqlite3 com o comando `npm un sqlite3`
+      - Execute novamente o comando `npm install`
+      - Instale o sqlite3 `npm i sqlite3`
     
     
 # Iniciar o frontend 
