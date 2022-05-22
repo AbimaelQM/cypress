@@ -1,4 +1,7 @@
 # Cypress
+CONTEÚDO DO VÍDEO:
+https://www.youtube.com/watch?v=gTRMuWCp8mE
+
 Testes com Cypress
 
 # Requisitos para esse teste
